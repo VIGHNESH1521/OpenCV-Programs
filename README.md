@@ -4,7 +4,9 @@ OpenCV is the huge open-source library for the computer vision, machine learning
 
 ![image](https://user-images.githubusercontent.com/90493668/150405258-d013a2a8-af85-418e-bdbe-c4c0118dca4c.png)
 
-Applications of OpenCV: There are lots of applications which are solved using OpenCV, some of them are listed below 
+# Applications of OpenCV: 
+
+There are lots of applications which are solved using OpenCV, some of them are listed below 
 
 --face recognition
 --Automated inspection and surveillance
