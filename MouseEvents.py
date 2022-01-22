@@ -7,7 +7,13 @@ def click_event(event, x, y, flag, params):
         print(x ,',', y)
         font = cv2.FONT_HERSHEY_PLAIN
         strxy = str(x) + ',' + str(y)
-        cv2.putText(img, strxy, (x, y), font, 2, (255, 255, 0), 2, cv2.LINE_4)
+        cv2.putText(img, strxy, (x, y), font, 1, (255, 255, 0), 2, cv2.LINE_4)
+        cv2.imshow("IMAGE", img)
+    if event == cv2.EVENT_RBUTTONDOWN:
+        print(x, ',', y)
+        font = cv2.FONT_HERSHEY_DUPLEX
+        strxy = str(x) + ',' + str(y)
+        cv2.putText(img, strxy, (x, y), font, 1, (100, 255, 245), 2, cv2.LINE_4)
         cv2.imshow("IMAGE", img)
 
 
