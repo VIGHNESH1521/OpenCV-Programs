@@ -8,16 +8,17 @@ OpenCV is the huge open-source library for the computer vision, machine learning
 
 There are lots of applications which are solved using OpenCV, some of them are listed below 
 
---face recognition
---Automated inspection and surveillance
---number of people – count (foot traffic in a mall, etc)
---Vehicle counting on highways along with their speeds
---Interactive art installations
---Anamoly (defect) detection in the manufacturing process (the odd defective products)
---Street view image stitching
---Video/image search and retrieval
---Robot and driver-less car navigation and control
---object recognition
---Medical image analysis
---Movies – 3D structure from motion
---TV Channels advertisement recognition
+•	face recognition
+•	Automated inspection and surveillance
+•	number of people – count (foot traffic in a mall, etc)
+•	Vehicle counting on highways along with their speeds
+•	Interactive art installations
+•	Anamoly (defect) detection in the manufacturing process (the odd defective products)
+•	Street view image stitching
+•	Video/image search and retrieval
+•	Robot and driver-less car navigation and control
+•	object recognition
+•	Medical image analysis
+•	Movies – 3D structure from motion
+•	TV Channels advertisement recognition
+
