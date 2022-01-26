@@ -1,6 +1,6 @@
 # What is Computer Vision?
 
-![image](https://user-images.githubusercontent.com/90493668/151181951-3cf8e8c4-b54e-4112-ad3f-aeed694cec7b.png)  ![image](https://user-images.githubusercontent.com/90493668/151220802-ab9c1e6a-3cc9-4a44-bf9d-678acb60dbf6.png) ![image](https://user-images.githubusercontent.com/90493668/151182266-89043790-2203-4b8d-bc07-ef14fa1bf556.png)
+![image](https://user-images.githubusercontent.com/90493668/151181951-3cf8e8c4-b54e-4112-ad3f-aeed694cec7b.png)![image](https://user-images.githubusercontent.com/90493668/151220931-38d9dbd2-e9bf-4291-8381-019919378ad0.png)![image](https://user-images.githubusercontent.com/90493668/151182266-89043790-2203-4b8d-bc07-ef14fa1bf556.png)
 
 
 
