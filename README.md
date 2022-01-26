@@ -1,6 +1,6 @@
 # What is Computer Vision?
 
-![image](https://user-images.githubusercontent.com/90493668/151181733-f159479e-547f-4fa2-9ab1-1c2073879195.png)
+![image](https://user-images.githubusercontent.com/90493668/151181951-3cf8e8c4-b54e-4112-ad3f-aeed694cec7b.png)
 
 Computer vision is a process by which we can understand the images and videos how they are stored and how we can manipulate and retrieve data from them. Computer Vision is the base or mostly used for Artificial Intelligence. Computer-Vision is playing a major role in self-driving cars, robotics as well as in photo correction apps. 
 
